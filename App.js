@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View} from 'react-native';
 import params from './src/params'
 import Field from './src/components/Field'
-import Flag from './src/components/Flag'
+
 
 
 
